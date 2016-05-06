@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./archivfrkatholi19jurigoog/archivfrkatholi19jurigoog_0003.png"; bbox 0 0 3142 4900; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 12 902 1822 2036">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 12 902 1822 2036">
+     <span class='ocr_line' id='line_1_1' title="bbox 12 902 1822 2036; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 12 902 1822 2036; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 691 2148 2049 2222">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 691 2148 2049 2222">
+     <span class='ocr_line' id='line_1_2' title="bbox 691 2148 2049 2222; baseline 0.001 -2"><span class='ocrx_word' id='word_1_2' title='bbox 691 2148 1140 2221; x_wconf 83' lang='lat' dir='ltr'>HARVAR</span> <span class='ocrx_word' id='word_1_3' title='bbox 1157 2149 1228 2221; x_wconf 91' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_4' title='bbox 1287 2151 1520 2222; x_wconf 86' lang='lat' dir='ltr'><strong>LAW</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1578 2149 2049 2222; x_wconf 84' lang='lat' dir='ltr'><strong>LIBRARY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 618 3117 1555 3199">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 618 3117 1555 3199">
+     <span class='ocr_line' id='line_1_3' title="bbox 618 3117 1555 3199; baseline 0.013 -13"><span class='ocrx_word' id='word_1_6' title='bbox 618 3140 865 3187; x_wconf 69' lang='lat' dir='ltr'><strong>Received</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 938 3117 1110 3194; x_wconf 75' lang='lat' dir='ltr'><strong>AUG</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1194 3119 1240 3192; x_wconf 84' lang='lat'>5</span> <span class='ocrx_word' id='word_1_9' title='bbox 1385 3120 1555 3199; x_wconf 81' lang='lat'>1925</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1474 4382 2412 4852">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1474 4382 2412 4852">
+     <span class='ocr_line' id='line_1_4' title="bbox 1474 4382 2412 4852; baseline 0 48"><span class='ocrx_word' id='word_1_10' title='bbox 1474 4382 2412 4852; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 73 4647 235 4849">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 73 4647 235 4849">
+     <span class='ocr_line' id='line_1_5' title="bbox 73 4647 235 4849; textangle 90"><span class='ocrx_word' id='word_1_11' title='bbox 74 4846 235 4849; x_wconf 64' lang='grc' dir='ltr'><strong>Υ</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 73 4647 184 4751; x_wconf 57' lang='lat'><strong>*¹⁷</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
